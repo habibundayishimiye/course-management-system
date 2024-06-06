@@ -17,7 +17,8 @@ It allows users to perform CRUD (Create, Read, Update, Delete) operations on cou
 ## Installation
 1. **Clone the Repository:** Clone this repository to your local machine using Git:
    ```
-   git clone https://github.com/codeWithEdison/Course-Management-sytem.git
+   git clone https://github.com/habibundayishimiye/HabJass250_Course_Management_System
+   
    ```
 
 2. **Import Database Schema:** Set up the MySQL database by executing the SQL script provided in the `schema.sql` file. This script will create the necessary tables (`Teacher` and `Course`) and insert sample data for testing.
